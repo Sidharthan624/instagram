@@ -1,0 +1,405 @@
+.home{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 700;
+   padding: 10px 50px;
+    
+}
+.home:hover{
+    background-color: rgb(236, 235, 235);
+}
+.search{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.search:hover{
+    background-color: rgb(236, 235, 235);
+}
+.side-bar{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    border-right: 1px solid gray;
+    width: 300px;
+    position: sticky;
+    height: 715px;
+    top: 0;
+    justify-content: start;
+}
+.explore{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.explore:hover{
+    background-color: rgb(236, 235, 235);
+}
+.reels{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.reels:hover{
+    background-color: rgb(236, 235, 235);
+}
+.messages{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.messages:hover{
+    background-color: rgb(236, 235, 235);
+}
+.notifications{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.notifications:hover{
+    background-color: rgb(236, 235, 235);
+}
+
+.create{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.create:hover{
+    background-color: rgb(236, 235, 235);
+}
+
+.profile{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.profile:hover{
+    background-color: rgb(236, 235, 235);
+}
+.profile-image{
+    border-radius: 10px;
+}
+.more{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.more:hover{
+    background-color: rgb(236, 235, 235);
+}
+.btn-div{
+    
+    margin-right: 10px;
+}
+.search-btn-div{
+
+    margin-right: 10px;
+}
+.notification-btn-div{
+ 
+    margin-right: 10px;
+
+}
+.explore-btn-div{
+  
+    margin-right: 10px;
+}
+.messages-btn-div{
+  
+    margin-right: 10px;
+}
+.reels-btn-div{
+   
+    margin-right: 10px;
+}
+.create-btn-div{
+  
+    margin-right: 10px;
+}
+.profile-image{
+    margin-right: 10px;
+}
+.more-icon-div{
+    margin-right: 10px;
+ 
+}
+.stories{
+    margin-top: 20px;
+    
+    display: flex;
+    border-left: 1px;
+}
+.main{
+    display: flex;
+    justify-content: start;
+}
+.story1{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+    
+    
+
+}
+.story2{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+}
+.story3{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+}
+.story4{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+}
+.story5{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+}
+.story6{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+}
+.story7{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+}
+.story8{
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 2px solid rgb(238, 36, 194)  ;
+}
+.post-section{
+    display: block;
+}
+.msg-section{
+    padding-left: 100px;
+    width: 350px;
+}
+.profile-msg{
+    padding-top: 50px;
+    display: flex;
+    
+}
+.msg-profile{
+    border-radius: 20px;
+}
+.user-name p{
+    margin: 0;
+    margin-left: 10px;
+}
+.switch{
+    margin-left: 50px;
+    border: none;
+    color: blue;
+    background-color: transparent;
+}
+.Suggested{
+    margin-top: 20px;
+    display: flex;
+    margin-bottom: 10px;
+}
+.see-all{
+    border: none;
+    margin-left: 90px;
+    background-color: transparent;
+}
+.msg1{
+    display: flex;
+}
+.msg-image1{
+    border-radius: 20px;
+
+}
+.msg-name1 p{
+margin: 0;
+margin-left: 10px;
+margin-bottom: 10px;
+}
+.follow1{
+    font-size: 12px;
+}
+.follow{
+    padding-left: 50px;
+    background-color:transparent;
+    border: none;
+    color: blue;
+}
+.under-msg-section{
+    font-size: 12px;
+    margin-top: 30px;
+    color: gray;
+    width: 230px;
+
+}
+.post-detail{
+    display: flex;
+    
+    margin-top: 50px;
+}
+.post-dp1{
+    border-radius: 15px;
+}
+.center{
+    margin-left: 200px;
+    
+}
+.name{
+    margin-top: 0;
+    margin-left: 10px;
+    font-weight: 600;
+}
+.post-time{
+    margin-top: 0;
+    color: gray;
+}
+.post-loc{
+    margin-top: 0;
+    margin-left: 10px;
+    
+}
+.name{
+    margin-bottom: 0;
+}
+.post-img{
+   margin-top: 10px;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.side-btn{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 10px;
+    
+}
+.side-btn:hover{
+    background-color: rgb(236, 235, 235);
+}
+.btn-txt{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.side-btn-more{
+    width: 220px;
+    height: 48px;
+    display: block;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 150px;
+    margin-left: 10px;
+}
+.side-btn-more:hover{
+    background-color: rgb(236, 235, 235);
+}
+.like-section{
+    margin-top: 10px;
+    display: flex;
+    justify-content: start;
+}
+.like-section svg{
+    margin-right: 10px;
+}
+.save{
+    margin-left: 465px;
+    display: inline;
+}
+.post-action{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.from-meta{
+    margin-top: 50px;
+    color: gray;
+    font-size: 12px;
+}
+.caption-section{
+    display: flex;
+    margin-top: 10px;
+}
+.name-caption{
+font-weight: 600;
+}
+.caption{
+    margin-left: 10px;
+}
+.likes-count{
+    margin-top: 10px;
+    font-weight: 600;
+}
+.line{
+    margin-top: 10px;
+}
+.add-comment{
+color: gray;
+font-size: 15px;
+margin-top: 10px;
+
+}
+.insta-cursive{
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
